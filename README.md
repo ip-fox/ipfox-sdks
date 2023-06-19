@@ -1,4 +1,4 @@
-# IPFox SDKs for different language
+# IP Beaver SDKs for different language
 - C#
 - Golang
 - Java
